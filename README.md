@@ -8,3 +8,7 @@ Practical-1
 2. Write a JAVA program to display different parts of the URL passed to an URL object.(Use URL class and methods)
 3. Write a program to implement the connection oriented echo client server application.
 4. Write a program to implement the connectionless echo client server application.
+
+Practical-2
+A-Develop chat application using either TCP or UDP protocol.
+B-Implement TCP Server for transferring files using Socket and ServerSocket .
