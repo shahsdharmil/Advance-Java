@@ -12,3 +12,8 @@ Practical-1
 Practical-2
 A-Develop chat application using either TCP or UDP protocol.
 B-Implement TCP Server for transferring files using Socket and ServerSocket .
+
+Practical-3
+A-Implement any one sorting algorithm using TCP/UDP in which user gives input as multiple integer values on client side and send to server, client received sorted output from server and display result on client side.
+B-Implement Concurrent TCP Server programming in which more than one clients can connect and communicate with
+Server for sending the string and server returns the reverse of string to each of client
