@@ -17,3 +17,13 @@ Practical-3
 A-Implement any one sorting algorithm using TCP/UDP in which user gives input as multiple integer values on client side and send to server, client received sorted output from server and display result on client side.
 B-Implement Concurrent TCP Server programming in which more than one clients can connect and communicate with
 Server for sending the string and server returns the reverse of string to each of client
+
+Practical-4
+A. Write a program which prints the student_name and id_no from the database in reverse order.
+And also insert the two new rows.
+B. Develop an user interface that perform the following SQL operations : 
+(i) Select (ii) Insert (iii) Update (iv) Delete
+
+Practical-5
+A.Write a java application that finds out no. of records, no. of columns and types of columns within a table.
+B.Write an application that calls Stored Procedure.
